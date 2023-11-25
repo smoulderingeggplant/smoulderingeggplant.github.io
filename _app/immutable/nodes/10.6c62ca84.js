@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width" />
-		
-		<link href="../_app/immutable/assets/10.a0632f7b.css" rel="stylesheet">
-		<link rel="modulepreload" href="../_app/immutable/entry/start.e2277f33.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/scheduler.e108d1fd.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.f3c18bdd.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/paths.ca27cb7f.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/app.0f67da4a.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.0719bd3d.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/0.a4d6fcb2.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/10.6c62ca84.js">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">  <header class="header-box svelte-1ya3wfp" data-svelte-h="svelte-16equou"><div class="left-header svelte-1ya3wfp"><a href="/photography" class="svelte-1ya3wfp">Photography</a> <a href="/writing" class="svelte-1ya3wfp">Writing</a> <a href="/visualarts" class="svelte-1ya3wfp">Visual Arts</a></div> <div class="center-header svelte-1ya3wfp"><h1><a href="/" class="svelte-1ya3wfp">Rowan Sharp</a></h1></div> <div class="right-header svelte-1ya3wfp"><a href="mailto:rosharp@greenspice.com" class="svelte-1ya3wfp">Email Me</a> <a href="https://www.linkedin.com/in/rowan-sharp/" class="svelte-1ya3wfp">Linkedin</a> <a href="https://github.com/smoulderingeggplant/" class="svelte-1ya3wfp">GitHub</a></div></header> <body data-svelte-h="svelte-ng5h1w"><div class="outer-text-container svelte-1ya3wfp"><div class="c8 doc-content svelte-1ya3wfp"><p class="c1 svelte-1ya3wfp"><span class="c9 svelte-1ya3wfp">Whaler’s Blessing</span></p> <p class="c0 c6 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp"></span></p> <p class="c0 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp">Bone spines jutted out of Novak’s right forearm, with broken veins forming inkblot
+import{s as y,n}from"../chunks/scheduler.e108d1fd.js";import{S as v,i as m,g as c,s as u,h as d,y as f,c as g,k as b,a as h,f as i}from"../chunks/index.0719bd3d.js";import{b as o}from"../chunks/paths.ca27cb7f.js";function k(w){let e,p=`<div class="left-header svelte-1ya3wfp"><a href="${o}/photography" class="svelte-1ya3wfp">Photography</a> <a href="${o}/writing" class="svelte-1ya3wfp">Writing</a> <a href="${o}/visualarts" class="svelte-1ya3wfp">Visual Arts</a></div> <div class="center-header svelte-1ya3wfp"><h1><a href="${o}/" class="svelte-1ya3wfp">Rowan Sharp</a></h1></div> <div class="right-header svelte-1ya3wfp"><a href="mailto:rosharp@greenspice.com" class="svelte-1ya3wfp">Email Me</a> <a href="https://www.linkedin.com/in/rowan-sharp/" class="svelte-1ya3wfp">Linkedin</a> <a href="https://github.com/smoulderingeggplant/" class="svelte-1ya3wfp">GitHub</a></div>`,t,a,r=`<div class="outer-text-container svelte-1ya3wfp"><div class="c8 doc-content svelte-1ya3wfp"><p class="c1 svelte-1ya3wfp"><span class="c9 svelte-1ya3wfp">Whaler’s Blessing</span></p> <p class="c0 c6 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp"></span></p> <p class="c0 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp">Bone spines jutted out of Novak’s right forearm, with broken veins forming inkblot
 					patterns of black blood just below the skin. A red line at his elbow separated the
 					half-formed limb from the intact flesh right above it. Novak’s left hand was
 					unblemished and held a long-stemmed pipe; the broken joints of his right hand clutched a
@@ -100,8 +82,8 @@
 					meditation.” Mélisande swept a hand around her, pointing to all the Whaler
 					ships. “Almost every one of them in this flotilla is a mage. Can you imagine what
 					that changes?
-				</span><span class="c3 svelte-1ya3wfp">How they</span><span class="c3 svelte-1ya3wfp"> see the world?”<br>        “Is that why you’re
-					here?”<br>        “One of the
+				</span><span class="c3 svelte-1ya3wfp">How they</span><span class="c3 svelte-1ya3wfp"> see the world?”<br/>        “Is that why you’re
+					here?”<br/>        “One of the
 					reasons. Another is that the mountains are already too crowded with hermits and rich
 					academies—the ocean is all that’s left. But enough about that. Why are
 				</span><span class="c3 svelte-1ya3wfp">you</span><span class="c3 svelte-1ya3wfp"> really here?” Mélisande looked at Novak’s arm. “Why do you
@@ -119,32 +101,4 @@
 					mess of bridges that connected the floating city.</span></p> <p class="c0 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp">Later, as moonlight slid into the waves and Whalers climbed their masts with glowing
 					song-filled throats, a small splash next to the human ship went unnoticed. A slender mass
 					of bone and flesh disappeared beneath the water. Novak walked across the driftwood bridge
-					to the mage’s craft, winding a bandage around the stump of his right elbow.</span></p> <p class="c6 c7 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp"></span></p></div></div> </body> 
-			
-			<script>
-				{
-					__sveltekit_v1u2qe = {
-						base: new URL("..", location).pathname.slice(0, -1),
-						env: {}
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [null,null];
-
-					Promise.all([
-						import("../_app/immutable/entry/start.e2277f33.js"),
-						import("../_app/immutable/entry/app.0f67da4a.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 10],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+					to the mage’s craft, winding a bandage around the stump of his right elbow.</span></p> <p class="c6 c7 svelte-1ya3wfp"><span class="c2 svelte-1ya3wfp"></span></p></div></div>`;return{c(){e=c("header"),e.innerHTML=p,t=u(),a=c("body"),a.innerHTML=r,this.h()},l(s){e=d(s,"HEADER",{class:!0,"data-svelte-h":!0}),f(e)!=="svelte-16equou"&&(e.innerHTML=p),t=g(s),a=d(s,"BODY",{"data-svelte-h":!0}),f(a)!=="svelte-ng5h1w"&&(a.innerHTML=r),this.h()},h(){b(e,"class","header-box svelte-1ya3wfp")},m(s,l){h(s,e,l),h(s,t,l),h(s,a,l)},p:n,i:n,o:n,d(s){s&&(i(e),i(t),i(a))}}}class W extends v{constructor(e){super(),m(this,e,null,k,y,{})}}export{W as component};
